@@ -1,6 +1,6 @@
 <h3>
 <a href="https://drive.google.com/file/d/1zHMWjJejlKPRPI1BPYNZA5M60720qhN6/view?usp=sharing">
-  <img align="right" title="Download Resume" alt="Resume" width="80px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/resume.png" />
+  <img align="right" title="Download Resume" alt="Resume" width="75px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/resume.png" />
 </a>  Hey there, I'm Pratyay! 
   </h3>
 
@@ -27,7 +27,7 @@
 
 ##
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="center">
 
