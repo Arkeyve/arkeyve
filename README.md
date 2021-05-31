@@ -1,18 +1,19 @@
 ### Hi there, I'm Pratyay!
 
 <a href="https://www.linkedin.com/in/pratyay-amrit/">
-  <img align="left" alt="LinkedIn" width="33px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/linkedin.png" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/linkedin.png" />
 </a>
-
 <a href="mailto:p.amrit@live.com">
   <img align="left" alt="Email" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/outlook.svg" />
 </a>
-
 <a href="mailto:yay.amrit@gmail.com">
   <img align="left" alt="Email" width="37px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/gmail.svg" />
 </a>
 <a href="https://arkeyve.wordpress.com/">
   <img align="left" alt="WordPress" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/wordpress.png" />
+</a>
+<a href="https://www.instagram.com/arkeyve/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/instagram.png" />
 </a>
 
 <br />
