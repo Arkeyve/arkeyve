@@ -1,4 +1,8 @@
-### Hi there, I'm Pratyay!
+<h3>
+<a href="https://drive.google.com/file/d/1zHMWjJejlKPRPI1BPYNZA5M60720qhN6/view?usp=sharing">
+  <img align="right" title="Download Resume" alt="Resume" width="80px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/resume.png" />
+</a>  Hey there, I'm Pratyay! 
+  </h3>
 
 <a href="https://www.linkedin.com/in/pratyay-amrit/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/linkedin.png" />
@@ -16,11 +20,14 @@
   <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/instagram.png" />
 </a>
 
+
 <br />
+
+#### 
 
 ##
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
 
