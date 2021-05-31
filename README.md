@@ -13,14 +13,24 @@
   <img align="left" alt="WordPress" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/wordpress.png" />
 </a>
 <a href="https://www.instagram.com/arkeyve/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/instagram.png" />
+  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/instagram.png" />
 </a>
 
 <br />
 
 ##
 
+<table align="center">
+  <tr>
+    <td align="center">
+
 [![Pratyay's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkeyve&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkeyve&theme=dark&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r3mmvdzsfcpzu3cwky3jcnrl1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+    </td>
+  </tr>
+ </table>
 
