@@ -1,5 +1,5 @@
 <h3>
-<a href="https://drive.google.com/file/d/1uw9W40bcYz3EJo_wU18G54h6YMzifRbs/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1voc57Mj36z7oCB-uXZiQMC2vGS-MfYhk/view?usp=sharing">
   <img align="right" title="Download Resume" alt="Resume" width="75px" src="https://raw.githubusercontent.com/Arkeyve/arkeyve/main/assets/resume.png" />
 </a>  Hey there, I'm Pratyay! 
   </h3>
